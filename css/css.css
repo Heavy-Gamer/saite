@@ -1,0 +1,17 @@
+body{
+    background: #fff url(https://oir.mobi/uploads/posts/2021-06/1623098572_18-oir_mobi-p-krasota-russkogo-lesa-priroda-krasivo-foto-21.jpg);
+    background-size: 100%;
+}
+
+.navbar-brand img{
+    width: 35px;
+}
+
+
+.footer-text{
+    background-color: #ffffff7b;
+    color: black;
+    position: fixed;
+    margin: auto auto;
+    left: 0; bottom: 0;
+}
